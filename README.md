@@ -1,4 +1,5 @@
 # Fast Admin Finder
+<img src="Screenshot_20220521-204057.jpg" class="center" alt="ss"></img>
 <details id="missing-code-coverage">
 <summary>HOW TO INSTALL</summary>
 <li>apt update && apt upgrade</li>
