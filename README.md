@@ -12,6 +12,12 @@
 <li>git clone https://github.com/RS-YAAD/AdminFinder && cd AdminFinder && chmod +x AdminFind.sh && ./AdminFind.sh </li>
 </details><br>
 <details id="missing-code-coverage">
+<summary>HOW TO USE CUSTOM ADMIN FINDER WORDLIST</summary>
+<li>remove admin.txt file</li>
+<li>create your own admin finder wordlist file</li>
+<li>You must name your own file admin.txt</li>
+</details><br>
+<details id="missing-code-coverage">
 <summary>CONTACT ME</summary><br>
 <details id="missing-code-coverage">
 <summary>FACEBOOK</summary><a href="https://www.facebook.com/its.rs.yaad"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://github.com/RS-YAAD/RS-YAAD/blob/main/pic/facebook.png" />FACEBOOK</a><br><br>
